@@ -12,8 +12,6 @@ def key_for_min_value(name_hash)
       min_key = key
     end
   end
-  puts min_key
-  min_key
 end
 
 ikea = {:chair => 25, :table => 85, :mattress => 450}
